@@ -16,7 +16,7 @@ TOP_LIMIT It's the max size of an event package to be sent.
 */
 
 //var url='http://156.35.81.55/RESTServiceTest.php';
-var url = 'http://localhost:8080/data';
+var url = 'http://localhost:8090/data';
 var urlRegisterComponent = 'http://156.35.81.55/TrackerServer/restws/registerComponent';
 var urlRegisterUserData = 'http://156.35.81.55/TrackerServer/restws/registerUserData';
 
